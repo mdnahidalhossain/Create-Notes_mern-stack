@@ -13,8 +13,9 @@ export default {
 
   daisyui: {
     themes: [
+      "dim",
+      "coffee",
       "forest",
-      "coffee"
     ]
   }
 }

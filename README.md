@@ -6,7 +6,7 @@ Tools:
 - Backend: Express, Node.js, MongoDB
 - Used React-Hot-Toast for popup dialogs
   
-<br>
+<h3>Screenshots:</h3>
 
 <img src="frontend/public/screenshots/ss-1.png" alt="Screenshot" height="400">  <br> <br> <img src="frontend/public/screenshots/ss-2.png" alt="Screenshot" height="400">
 <br> <br> <img src="frontend/public/screenshots/ss-3.png" alt="Screenshot" height="400"> <br> <br> <img src="frontend/public/screenshots/ss-4.png" alt="Screenshot" height="400">

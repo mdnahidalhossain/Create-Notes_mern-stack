@@ -13,7 +13,7 @@ const NoteCard = ({ note, setNotes }) => {
         if (!window.confirm("Are you sure you want to dele this note?")) return;
 
         try {
-            await aapi.delete(`/notes/${id}`)
+            await api.delete(`/notes/${id}`)
 
             // after deleting data from the Api/databse, update the state without refreshing the page by keeping the previos data
             setNotes((prev) => prev.filter(note => note._id !== id))
